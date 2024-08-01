@@ -1,0 +1,5 @@
+stable-diffusion-3-medium-diffusers
+logs
+checkpoints
+__pycache__
+smplx_models
